@@ -1,0 +1,8 @@
+# vscode
+.vscode/settings.json
+
+# out file
+/main.out
+
+# testing file
+/*.txt
